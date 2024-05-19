@@ -19,14 +19,14 @@ const Navbar = (props: Props) => {
           <Image
             className='block dark:hidden'
             src='/logo.png'
-            width={100}
+            width={250}
             height={60}
             alt='Logo'
           />
           <Image
             className='hidden dark:block'
             src='/logo_dark.png'
-            width={100}
+            width={250}
             height={60}
             alt='Logo'
           />
